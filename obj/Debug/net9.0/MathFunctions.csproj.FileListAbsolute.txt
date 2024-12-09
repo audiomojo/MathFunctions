@@ -64,3 +64,37 @@
 /Users/rich/Data/Source Code/Personal/DotNetCore/MathFunctions/Service/obj/Debug/net9.0/MathFunctions.pdb
 /Users/rich/Data/Source Code/Personal/DotNetCore/MathFunctions/Service/obj/Debug/net9.0/MathFunctions.genruntimeconfig.cache
 /Users/rich/Data/Source Code/Personal/DotNetCore/MathFunctions/Service/obj/Debug/net9.0/ref/MathFunctions.dll
+/Users/dahr4171/Data/Source/DotNetCore/MathFunctions/Service/MathFunctions/bin/Debug/net9.0/appsettings.Development.json
+/Users/dahr4171/Data/Source/DotNetCore/MathFunctions/Service/MathFunctions/bin/Debug/net9.0/appsettings.json
+/Users/dahr4171/Data/Source/DotNetCore/MathFunctions/Service/MathFunctions/bin/Debug/net9.0/MathFunctions.staticwebassets.endpoints.json
+/Users/dahr4171/Data/Source/DotNetCore/MathFunctions/Service/MathFunctions/bin/Debug/net9.0/MathFunctions
+/Users/dahr4171/Data/Source/DotNetCore/MathFunctions/Service/MathFunctions/bin/Debug/net9.0/MathFunctions.deps.json
+/Users/dahr4171/Data/Source/DotNetCore/MathFunctions/Service/MathFunctions/bin/Debug/net9.0/MathFunctions.runtimeconfig.json
+/Users/dahr4171/Data/Source/DotNetCore/MathFunctions/Service/MathFunctions/bin/Debug/net9.0/MathFunctions.dll
+/Users/dahr4171/Data/Source/DotNetCore/MathFunctions/Service/MathFunctions/bin/Debug/net9.0/MathFunctions.pdb
+/Users/dahr4171/Data/Source/DotNetCore/MathFunctions/Service/MathFunctions/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/dahr4171/Data/Source/DotNetCore/MathFunctions/Service/MathFunctions/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/Users/dahr4171/Data/Source/DotNetCore/MathFunctions/Service/MathFunctions/obj/Debug/net9.0/MathFunctions.csproj.AssemblyReference.cache
+/Users/dahr4171/Data/Source/DotNetCore/MathFunctions/Service/MathFunctions/obj/Debug/net9.0/MathFunctions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dahr4171/Data/Source/DotNetCore/MathFunctions/Service/MathFunctions/obj/Debug/net9.0/MathFunctions.AssemblyInfoInputs.cache
+/Users/dahr4171/Data/Source/DotNetCore/MathFunctions/Service/MathFunctions/obj/Debug/net9.0/MathFunctions.AssemblyInfo.cs
+/Users/dahr4171/Data/Source/DotNetCore/MathFunctions/Service/MathFunctions/obj/Debug/net9.0/MathFunctions.csproj.CoreCompileInputs.cache
+/Users/dahr4171/Data/Source/DotNetCore/MathFunctions/Service/MathFunctions/obj/Debug/net9.0/MathFunctions.MvcApplicationPartsAssemblyInfo.cs
+/Users/dahr4171/Data/Source/DotNetCore/MathFunctions/Service/MathFunctions/obj/Debug/net9.0/MathFunctions.MvcApplicationPartsAssemblyInfo.cache
+/Users/dahr4171/Data/Source/DotNetCore/MathFunctions/Service/MathFunctions/obj/Debug/net9.0/MathFunctions.sourcelink.json
+/Users/dahr4171/Data/Source/DotNetCore/MathFunctions/Service/MathFunctions/obj/Debug/net9.0/scopedcss/bundle/MathFunctions.styles.css
+/Users/dahr4171/Data/Source/DotNetCore/MathFunctions/Service/MathFunctions/obj/Debug/net9.0/staticwebassets.build.json
+/Users/dahr4171/Data/Source/DotNetCore/MathFunctions/Service/MathFunctions/obj/Debug/net9.0/staticwebassets.development.json
+/Users/dahr4171/Data/Source/DotNetCore/MathFunctions/Service/MathFunctions/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/dahr4171/Data/Source/DotNetCore/MathFunctions/Service/MathFunctions/obj/Debug/net9.0/staticwebassets/msbuild.MathFunctions.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/dahr4171/Data/Source/DotNetCore/MathFunctions/Service/MathFunctions/obj/Debug/net9.0/staticwebassets/msbuild.MathFunctions.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/dahr4171/Data/Source/DotNetCore/MathFunctions/Service/MathFunctions/obj/Debug/net9.0/staticwebassets/msbuild.build.MathFunctions.props
+/Users/dahr4171/Data/Source/DotNetCore/MathFunctions/Service/MathFunctions/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.MathFunctions.props
+/Users/dahr4171/Data/Source/DotNetCore/MathFunctions/Service/MathFunctions/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.MathFunctions.props
+/Users/dahr4171/Data/Source/DotNetCore/MathFunctions/Service/MathFunctions/obj/Debug/net9.0/staticwebassets.pack.json
+/Users/dahr4171/Data/Source/DotNetCore/MathFunctions/Service/MathFunctions/obj/Debug/net9.0/MathFunc.A73B07B0.Up2Date
+/Users/dahr4171/Data/Source/DotNetCore/MathFunctions/Service/MathFunctions/obj/Debug/net9.0/MathFunctions.dll
+/Users/dahr4171/Data/Source/DotNetCore/MathFunctions/Service/MathFunctions/obj/Debug/net9.0/refint/MathFunctions.dll
+/Users/dahr4171/Data/Source/DotNetCore/MathFunctions/Service/MathFunctions/obj/Debug/net9.0/MathFunctions.pdb
+/Users/dahr4171/Data/Source/DotNetCore/MathFunctions/Service/MathFunctions/obj/Debug/net9.0/MathFunctions.genruntimeconfig.cache
+/Users/dahr4171/Data/Source/DotNetCore/MathFunctions/Service/MathFunctions/obj/Debug/net9.0/ref/MathFunctions.dll
